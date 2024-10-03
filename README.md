@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repository
 <br>
-Author - Mihir Hole
+Author - Mihir (Apna College)
